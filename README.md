@@ -18,8 +18,6 @@
 
   <p align="center">
     <a href="https://modern-forkify.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/ahmedalam98/Forkify/issues">Report Bug</a>
   </p>
 </div>
 
