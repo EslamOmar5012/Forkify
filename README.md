@@ -11,13 +11,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://modern-forkify.vercel.app/">
+  <a href="https://forkify-gray.vercel.app/">
     <img src="./src/img/favicon.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">Forkify</h1>
 
   <p align="center">
-    <a href="https://modern-forkify.vercel.app/">View Demo</a>
+    <a href="https://forkify-gray.vercel.app/">View Demo</a>
   </p>
 </div>
 
@@ -100,7 +100,7 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 ## Getting Started
 
-This project require some prequesites and dependenscies to be installed, you can view it online using this [demo](https://forkify-recipe.vercel.app). or you can find the instructions below
+This project require some prequesites and dependenscies to be installed, you can view it online using this [demo](https://forkify-gray.vercel.app). or you can find the instructions below
 
 > To get a local copy, follow these simple steps :
 
